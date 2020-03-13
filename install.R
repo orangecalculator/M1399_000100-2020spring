@@ -1,0 +1,6 @@
+install.packages("lobstr")
+install.packages("uint8")
+install.packages("pryr")
+install.packages("gmp")
+install.packages('float')
+install.packages('Rcpp')
